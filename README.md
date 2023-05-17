@@ -1,2 +1,11 @@
-# open_llms_mm
-open llm for multimodal
+# Open LLM for Multimodal
+
+Non-Multimodal LLM: https://github.com/eugeneyan/open-llms
+
+## Open Model
+
+
+## Open Data
+
+
+
