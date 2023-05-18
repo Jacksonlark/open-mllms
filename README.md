@@ -14,7 +14,10 @@ Non-Multimodal LLM: https://github.com/eugeneyan/open-llms
 
 ## Open Data
 
-| Name | Release Date | Function | Paper/Blog | Dataset                            | Samples | License     |
-| --- |--------------|----------|------------|------------------------------------|---------|-------------| 
-| LLaVA-Instruct-150K | 2023.04      | IFT | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)  | [liuhaotian/LLaVA-Instruct-150K](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K) | 150K    | CC BY-SA-4.0 | 
-| LAION-400M | 2021.08 | PreTrain | [LAION-400-MILLION OPEN DATASET](https://laion.ai/blog/laion-400-open-dataset) | [laion/laion400m](https://huggingface.co/datasets/laion/laion400m) | 400M | CC BY-SA-4.0 |
+| Name | Release Date | Function | Paper/Blog | Dataset                                                                             | Samples | License |
+| --- |------|----------|------------|-------------------------------------------------------------------------------------|---------|--------| 
+| LLaVA-Instruct-150K | 2023.04 | IFT | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)  | [liuhaotian/LLaVA-Instruct-150K](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K) | 150K    | CC BY-SA-4.0 | 
+| LAION-400M | 2021.08 | PreTrain | [LAION-400-MILLION OPEN DATASET](https://laion.ai/blog/laion-400-open-dataset) | [laion/laion400m](https://huggingface.co/datasets/laion/laion400m)                  | 400M    | CC BY-SA-4.0 |
+| CC3M | 2021 | PreTrain | [google-research-datasets/conceptual-captions](https://github.com/google-research-datasets/conceptual-captions) | [Google's Conceptual Captions](https://ai.google.com/research/ConceptualCaptions/)  | 3M | Free   |
+| CC12M | 2021 | PreTrain | [google-research-datasets/conceptual-12m](https://github.com/google-research-datasets/conceptual-12m) | [cc12m](https://github.com/google-research-datasets/conceptual-12m#hashcodes)       | 12M     | Free   |
+| SBU | 2011 | PreTrain | [Im2Text: Describing Images Using 1 Million Captioned Photographs](https://papers.nips.cc/paper_files/paper/2011/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html) | [sbu_captions](https://huggingface.co/datasets/sbu_captions) | 1M | unkown |
